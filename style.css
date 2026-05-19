@@ -1,0 +1,14 @@
+h1{
+    color:rgba(33, 22, 131, 0.836);
+    text-align: center;
+}
+div{
+    background-color: rgb(32, 110, 134);
+    width: 400px;
+    height: 600px;
+    margin: 200px;
+    padding: 100px;
+}
+body{
+    background-color: black;
+}

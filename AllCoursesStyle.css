@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+}
+div{
+    width: 500px;
+    height: 600px;
+    margin: 200px;
+    padding: 100px;
+    position: relative;
+}
+button{
+    color: white;
+    background-color: blue;
+}
+container{
+    display: flex;
+    align-items: center;/*Center the content vertically*/
+    width: 100%;
+}
+column{
+    flex: 1;
+    padding: 20px;
+}
+divider{
+    border-left: 1px solid #000;
+    height: 100%;
+    margin: 0 10px;
+}
